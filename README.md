@@ -36,6 +36,8 @@ $ decipher subtitle --help
 
 Generate SRT subtitles for video
 
+영상에서 자막 파일 추출 srt  (result folder)
+
 ```bash
 $ decipher transcribe -i video.mp4 --model small
 ```
